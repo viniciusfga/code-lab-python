@@ -1,0 +1,1 @@
+print("Bem-vindo ao Code Lab Python!")
