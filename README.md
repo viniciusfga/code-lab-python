@@ -1,5 +1,7 @@
 # 🐍 Learning Python
 
+Python documentation: [O tutorial do Python](https://docs.python.org/pt-br/3/tutorial/index.html)
+
 Este repositório reúne **exercícios e exemplos práticos** desenvolvidos para o estudo dos fundamentos da linguagem **Python**, organizados de forma modular e progressiva.  
 O projeto tem como objetivo fortalecer a **lógica de programação** e o **raciocínio computacional**, servindo como base para estudos mais avançados em desenvolvimento e ciência de dados.
 
