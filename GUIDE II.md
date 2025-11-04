@@ -77,10 +77,6 @@ print(texto.replace("incrível", "poderoso"))  # Python é poderoso!
 
 ---
 
-## 🧭 Índice de Exercícios
-*(continua abaixo com os links dos exercícios em seus respectivos módulos)*
-
-
 # 🧭 Índice de Exercícios — Parte II
 
 ## 📂 Módulo 04 - Laços de Repetição
