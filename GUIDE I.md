@@ -67,8 +67,8 @@ Este guia reúne os exercícios dos três primeiros módulos do projeto **Learni
 # 🧭 Índice de Exercícios - Parte I
 
 ## 📂 Módulo 01 - Variáveis e Tipos
-1. [Exercício 01: Declarar variáveis e imprimir valores](./code-lab-python/1_VARIAVEIS_TIPOS/Exercicio01.py)
-2. [Exercício 02: Exibir tipos de variáveis](./code-lab-python/1_VARIAVEIS_TIPOS/Exercicio02.py)
+1. [Exercício 01: Declarar variáveis e imprimir valores](./1_VARIAVEIS_TIPOS/Exercicio01.py)
+2. [Exercício 02: Exibir tipos de variáveis](./1_VARIAVEIS_TIPOS/Exercicio02.py)
 3. [Exercício 03: Operações matemáticas básicas](./code-lab-python/1_VARIAVEIS_TIPOS/Exercicio03.py)
 4. [Exercício 04: Conversões de tipos](./code-lab-python/1_VARIAVEIS_TIPOS/Exercicio04.py)
 5. [Exercício 05: Cálculo de média](./code-lab-python/1_VARIAVEIS_TIPOS/Exercicio05.py)
