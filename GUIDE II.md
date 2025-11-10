@@ -80,16 +80,16 @@ print(texto.replace("incrível", "poderoso"))  # Python é poderoso!
 # 🧭 Índice de Exercícios — Parte II
 
 ## 📂 Módulo 04 - Laços de Repetição
-26. [Exercício 26: Contagem de 1 a 10 com for](./4_LACOS/src/Exercicio26.py)
-27. [Exercício 27: Contagem regressiva com while](./4_LACOS/src/Exercicio27.py)
-28. [Exercício 28: Soma de números de 1 a N](./4_LACOS/src/Exercicio28.py)
-29. [Exercício 29: Tabuada de um número](./4_LACOS/src/Exercicio29.py)
-30. [Exercício 30: Média de valores digitados até digitar 0](./4_LACOS/src/Exercicio30.py)
-31. [Exercício 31: Contar números pares e ímpares](./4_LACOS/src/Exercicio31.py)
-32. [Exercício 32: Fatorial de um número](./4_LACOS/src/Exercicio32.py)
-33. [Exercício 33: Exibir números ímpares entre dois valores](./4_LACOS/src/Exercicio33.py)
-34. [Exercício 34: Soma dos múltiplos de 3 entre 1 e 100](./4_LACOS/src/Exercicio34.py)
-35. [Exercício 35: Padrão de asteriscos com laços aninhados](./4_LACOS/src/Exercicio35.py)
+1. [Exercício 01: Contagem de 1 a 10 com for](./4_LACOS/src/Exercicio01.py)
+2. [Exercício 02: Contagem regressiva com while](./4_LACOS/src/Exercicio02.py)
+3. [Exercício 03: Soma de números de 1 a N](./4_LACOS/src/Exercicio03.py)
+4. [Exercício 04: Tabuada de um número](./4_LACOS/src/Exercicio04.py)
+5. [Exercício 05: Média de valores digitados até digitar 0](./4_LACOS/src/Exercicio05.py)
+6. [Exercício 06: Contar números pares e ímpares](./4_LACOS/src/Exercicio06.py)
+7. [Exercício 07: Fatorial de um número](./4_LACOS/src/Exercicio07.py)
+8. [Exercício 08: Exibir números ímpares entre dois valores](./4_LACOS/src/Exercicio08.py)
+9. [Exercício 09: Soma dos múltiplos de 3 entre 1 e 100](./4_LACOS/src/Exercici09.py)
+10. [Exercício 10: Padrão de asteriscos com laços aninhados](./4_LACOS/src/Exercicio10.py)
 
 ---
 
