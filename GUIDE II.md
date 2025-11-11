@@ -94,25 +94,25 @@ print(texto.replace("incrível", "poderoso"))  # Python é poderoso!
 ---
 
 ## 📂 Módulo 05 - Funções
-36. [Exercício 36: Criar e chamar uma função simples](./5_FUNCOES/src/Exercicio36.py)
-37. [Exercício 37: Função com parâmetros](./5_FUNCOES/src/Exercicio37.py)
-38. [Exercício 38: Função que retorna o dobro de um número](./5_FUNCOES/src/Exercicio38.py)
-39. [Exercício 39: Função que calcula o IMC](./5_FUNCOES/src/Exercicio39.py)
-40. [Exercício 40: Função para verificar número par](./5_FUNCOES/src/Exercicio40.py)
-41. [Exercício 41: Função com parâmetros opcionais](./5_FUNCOES/src/Exercicio41.py)
-42. [Exercício 42: Escopo de variáveis (global vs local)](./5_FUNCOES/src/Exercicio42.py)
-43. [Exercício 43: Função que retorna o maior entre três números](./5_FUNCOES/src/Exercicio43.py)
-44. [Exercício 44: Função que soma uma lista de números](./5_FUNCOES/src/Exercicio44.py)
-45. [Exercício 45: Desafio — Calculadora modularizada](./5_FUNCOES/src/Exercicio45.py)
+1. [Exercício 36: Criar e chamar uma função simples](./5_FUNCOES/src/Exercicio36.py)
+2. [Exercício 37: Função com parâmetros](./5_FUNCOES/src/Exercicio37.py)
+3. [Exercício 38: Função que retorna o dobro de um número](./5_FUNCOES/src/Exercicio38.py)
+4. [Exercício 39: Função que calcula o IMC](./5_FUNCOES/src/Exercicio39.py)
+5. [Exercício 40: Função para verificar número par](./5_FUNCOES/src/Exercicio40.py)
+6. [Exercício 41: Função com parâmetros opcionais](./5_FUNCOES/src/Exercicio41.py)
+7. [Exercício 42: Escopo de variáveis (global vs local)](./5_FUNCOES/src/Exercicio42.py)
+8. [Exercício 43: Função que retorna o maior entre três números](./5_FUNCOES/src/Exercicio43.py)
+9. [Exercício 44: Função que soma uma lista de números](./5_FUNCOES/src/Exercicio44.py)
+10. [Exercício 45: Desafio — Calculadora modularizada](./5_FUNCOES/src/Exercicio45.py)
 
 ---
 
 ## 📂 Módulo 06 - Strings
-46. [Exercício 46: Contar caracteres de uma string](./6_STRINGS/src/Exercicio46.py)
-47. [Exercício 47: Converter texto para maiúsculas e minúsculas](./6_STRINGS/src/Exercicio47.py)
-48. [Exercício 48: Verificar se uma palavra é palíndromo](./6_STRINGS/src/Exercicio48.py)
-49. [Exercício 49: Substituir palavras em uma frase](./6_STRINGS/src/Exercicio49.py)
-50. [Exercício 50: Contar vogais e consoantes](./6_STRINGS/src/Exercicio50.py)
-51. [Exercício 51: Fatiamento de string — exibir partes do texto](./6_STRINGS/src/Exercicio51.py)
-52. [Exercício 52: Separar nome e sobrenome](./6_STRINGS/src/Exercicio52.py)
-53. [Exercício 53: Desafio — Criptografia simples com troca de letras](./6_STRINGS/src/Exercicio53.py)
+1. [Exercício 46: Contar caracteres de uma string](./6_STRINGS/src/Exercicio46.py)
+2. [Exercício 47: Converter texto para maiúsculas e minúsculas](./6_STRINGS/src/Exercicio47.py)
+3. [Exercício 48: Verificar se uma palavra é palíndromo](./6_STRINGS/src/Exercicio48.py)
+4. [Exercício 49: Substituir palavras em uma frase](./6_STRINGS/src/Exercicio49.py)
+5. [Exercício 50: Contar vogais e consoantes](./6_STRINGS/src/Exercicio50.py)
+6. [Exercício 51: Fatiamento de string — exibir partes do texto](./6_STRINGS/src/Exercicio51.py)
+7. [Exercício 52: Separar nome e sobrenome](./6_STRINGS/src/Exercicio52.py)
+8. [Exercício 53: Desafio — Criptografia simples com troca de letras](./6_STRINGS/src/Exercicio53.py)

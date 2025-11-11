@@ -1,0 +1,2 @@
+Olá, este é meu primeiro arquivo em Python!
+Aprendendo a manipular arquivos com open() e write().
