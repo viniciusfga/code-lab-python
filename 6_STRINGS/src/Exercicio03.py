@@ -1,11 +1,6 @@
-#Verificar se uma palavra é palíndromo (ex: “arara”).
-
 palavra = "arara"
-def is_palindromo(palavra):
-    return palavra == palavra[::-1]
 
-    print(is_palindrome("arara"))
-if is_palindromo(palavra):
-    print(f"{palavra} é palíndromo")
+if palavra == palavra [::-1]:
+    print("É palíndromo")
 else:
-    print(f"{palavra} não é palíndromo")
+    print("Não é palíndromo")
